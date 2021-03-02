@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/spark/softap-setup-js",
   "dependencies": {
-    "node-rsa": "^0.4.2"
+    "react-native-rsa-native": "^2.0.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
